@@ -19,6 +19,7 @@ public class JenkinsExampleApplication implements CommandLineRunner {
 		
 		System.out.println("===================================================");
 		System.out.println("*********   my name is altap     **************");
+		
 		System.out.println("===================================================");
 	}
 
