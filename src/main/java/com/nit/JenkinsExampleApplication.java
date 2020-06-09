@@ -14,7 +14,7 @@ public class JenkinsExampleApplication implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		System.out.println("===================================================");
-		System.out.println("*********   welcome to jenkins     **************");
+		System.out.println("*********   welcome to learn by heart     **************");
 		System.out.println("===================================================");
 		
 		System.out.println("===================================================");
